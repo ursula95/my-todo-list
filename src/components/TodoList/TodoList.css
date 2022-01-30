@@ -1,0 +1,34 @@
+.todoItem {
+  align-items: center;
+  text-align: center;
+  margin: 10px 10px;
+  color: rgb(127, 102, 149);
+}
+
+.checked {
+  align-items: center;
+  text-align: center;
+  margin: 10px 10px;
+  color: rgb(74, 62, 85);
+  text-decoration: line-through;
+}
+
+.buttons {
+  margin-left: 5px;
+}
+
+.editButton {
+  margin-left: 5px;
+  background-color: rgb(202, 177, 231);
+  color: white;
+  border-color: transparent;
+  border-radius: 10px;
+  padding: 4px 8px;
+}
+
+.editInput {
+  margin-top: 10px;
+  border: 2px dotted rgb(194, 103, 103);
+  border-radius: 10px;
+  padding: 4px 8px;
+}
